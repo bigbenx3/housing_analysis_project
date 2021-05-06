@@ -1,7 +1,7 @@
 
 
-# Housing Analysis for Microsoft
-![King County Real Estate]
+# King County Real Estate
+
 
 **Author**: [Benny Zhu](mailto:bennyzhu@buffalo.edu)
 
