@@ -39,23 +39,26 @@ For the purposes outlined above, we will use a variety of methods and modules th
 
 ## **Results**
 
-* We have a model that has an Coefficient of Determination(R-squared) value of 0.672 which indicates that our model can explain 67.2% of all variation in the data around the mean.
+* The average home price was $476, 9027. 
 
-* With a Mean Squared Error of around 140227 USD, that means our predicted price is, on average, 140227 USD off from our mean. While that number doesn't look too bad our Root Mean Squared Error is around 183833 USD which means that our model is being heavily penalized for predictions that are very far off the actual price.
+* On average, our predictions were off from the real price by +/- $89,840. 
+
 
 ### **Living Area**
+![scatterplot for price and living space sqft](/images/housing_project_images/price_and_house_living_space_new_5_11_21.png)
 As the living area of a house increases. So does the price.
 
 
 
 ### **Location**
-The location of a house, particularly, above .
+![scatterplot colored inferno format of price and location King County, WA area](/images/housing_project_images/price_and_location_final.png)
+The location of a house, particularly, above 47.55°N.
 
 
 
 ### **Quality**
-
-The quality of the house itself (its grade) makes a big impact.
+![barplot of different colors for price and grade of home](/images/housing_project_images/price_and_house_grade_new_5_11_21.png)
+The quality of the house itself (its grade) makes a big impact. Higher the grade, the higher the value of the home.
 
 
 
