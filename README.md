@@ -39,25 +39,25 @@ For the purposes outlined above, we will use a variety of methods and modules th
 
 ## **Results**
 
-* The average home price was $476, 9027. 
+* The average home price was $476, 027. 
 
 * On average, our predictions were off from the real price by +/- $89,840. 
 
 
 ### **Living Area**
-!["scatterplot for price and living space sqft"](./images/housing_project_images/price_and_house_living_space_new_5_11_21.png)
+!["scatterplot for price and living space sqft"](images/housing_project_images/price_and_house_living_space_new_5_11_21.jpg)
 As the living area of a house increases. So does the price.
 
 
 
 ### **Location**
-!["scatterplot colored inferno format of price and location King County, WA area"](./images/housing_project_images/price_and_location_final.png)
+!["scatterplot colored inferno format of price and location King County, WA area"](images/housing_project_images/price_and_location_final.jpg)
 The location of a house, particularly, above 47.55°N.
 
 
 
 ### **Quality**
-!["barplot of different colors for price and grade of home"](./images/housing_project_images/price_and_house_grade_new_5_11_21.png)
+!["barplot of different colors for price and grade of home"](images/housing_project_images/price_and_house_grade_new_5_11_21.jpg)
 The quality of the house itself (its grade) makes a big impact. Higher the grade, the higher the value of the home.
 
 
