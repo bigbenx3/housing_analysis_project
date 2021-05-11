@@ -45,19 +45,19 @@ For the purposes outlined above, we will use a variety of methods and modules th
 
 
 ### **Living Area**
-!["scatterplot for price and living space sqft"](images/housing_project_images/price_and_house_living_space_new_5_11_21.jpg)
+!["scatterplot for price and living space sqft"](housing_project_images/price_and_house_living_space_new_5_11_21.jpg)
 As the living area of a house increases. So does the price.
 
 
 
 ### **Location**
-!["scatterplot colored inferno format of price and location King County, WA area"](images/housing_project_images/price_and_location_final.jpg)
+!["scatterplot colored inferno format of price and location King County, WA area"](housing_project_images/price_and_location_final.jpg)
 The location of a house, particularly, above 47.55°N.
 
 
 
 ### **Quality**
-!["barplot of different colors for price and grade of home"](images/housing_project_images/price_and_house_grade_new_5_11_21.jpg)
+!["barplot of different colors for price and grade of home"](housing_project_images/price_and_house_grade_new_5_11_21.jpg)
 The quality of the house itself (its grade) makes a big impact. Higher the grade, the higher the value of the home.
 
 
